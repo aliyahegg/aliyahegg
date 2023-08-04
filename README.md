@@ -12,6 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="aliyah-eggeleston | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aliyah-eggleston | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aiEggleston | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/aliyah-eggleston
+[youtube]: https://www.youtube.com/channel/UC_U7BXOU75yzqki0SuhqI8g
